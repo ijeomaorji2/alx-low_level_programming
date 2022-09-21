@@ -1,6 +1,5 @@
-#ifndef HOLBERTON_H_INCLUDED
-#define HOLBERTON_H_INCLUDED
-
+#ifndef MAIN_H_INCLUDED 
+ #define MAIN_H_INCLUDED 
   
  int _putchar(char); 
  int _isupper(int); 
@@ -15,5 +14,5 @@
  void print_triangle(int); 
  void print_number(int); 
   
-
+  
  #endif
