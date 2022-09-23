@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * *_strcat - function that concatenates two strings
+ * _strcat - function that concatenates two strings
  * @dest: destination
  * @src: source
  * Return: 0
@@ -22,4 +22,5 @@ char *_strcat(char *dest, char *src)
 	}
 	dest[mike] = '\0';
 	return (dest);
+
 }
