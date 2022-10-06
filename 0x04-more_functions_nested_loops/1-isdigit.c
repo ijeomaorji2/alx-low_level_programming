@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * _isdigit - a function that checks for a digit
- * @c: charcter to be tasted
+ * _isdigit - a function that checks for a digit
+ * @c: charcter to be tasted
  * Return: 1 if c is a digit, 0 otherwise
  */
 
